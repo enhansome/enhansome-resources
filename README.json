@@ -1,0 +1,256 @@
+{
+  "items": [
+    {
+      "description": "To add a resource or contribute, please check out our contribution guide here.",
+      "items": [],
+      "title": "Contribution"
+    },
+    {
+      "description": "(If you're viewing this one the website, try clicking the icon buttons to filter the items in the list based on the category)\nThroughout this list you'll see next to each resource and emoji. Here's what each mean:\n:books: Course, long series or list of tutorials, or books\n:file_folder: Documentation\n:speaker: Podcast\n:green_book: Single Tutorial\n:wrench: Tool\n:video_camera: Video Resource (Youtube, video course, etc...)\n:bulb: Other",
+      "items": [],
+      "title": "Emojis Filter and Cheatsheet"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":bulb: Awesome Android",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-27T08:14:07Z",
+            "owner": "JStumpp",
+            "repo": "awesome-android",
+            "stars": 12274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":bulb: Android Tips & Tricks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-08T16:59:07Z",
+            "owner": "nisrulz",
+            "repo": "android-tips-tricks",
+            "stars": 4749
+          }
+        }
+      ],
+      "title": "Android"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":bulb: Open Source Society University - Path to a free self-taught education in Computer Science!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-14T05:38:25Z",
+            "owner": "ossu",
+            "repo": "computer-science",
+            "stars": 207944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":bulb: Awesome Awesomeness",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33603
+          }
+        }
+      ],
+      "title": "Computer Science"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":bulb: Collection of hackers, pentesters & security researchers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-26T03:29:02Z",
+            "owner": "Hack-with-Github",
+            "repo": "Awesome-Hacking",
+            "stars": 118172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":bulb: Practical-Ethical-Hacking-Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-12T00:50:34Z",
+            "owner": "TCM-Course-Resources",
+            "repo": "Practical-Ethical-Hacking-Resources",
+            "stars": 6111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":wrench: Open Source Reverse Engineering Platform",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Ethical Hacking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fundamental CP algorithms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":books: You Don't Know JS Yet (book series)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-15T04:36:44Z",
+            "owner": "getify",
+            "repo": "You-Dont-Know-JS",
+            "stars": 184653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":books: TheJSWay Book",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-01-30T10:47:23Z",
+            "owner": "thejsway",
+            "repo": "thejsway",
+            "stars": 7883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":wrench: Free js.org Subdomain For Github Pages",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T09:26:00Z",
+            "owner": "js-org",
+            "repo": "js.org",
+            "stars": 5830
+          }
+        }
+      ],
+      "title": "Javascript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":wrench: Docker Configuration for Magento2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-30T19:33:12Z",
+            "owner": "markshust",
+            "repo": "docker-magento",
+            "stars": 2859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":wrench: Fast Virtual Machine for Magento2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-03-27T14:04:23Z",
+            "owner": "zepgram",
+            "repo": "magento2-fast-vm",
+            "stars": 105
+          }
+        }
+      ],
+      "title": "Magento"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":bulb: TheAlgorithms/Python: All Algorithms implemented in Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T18:44:56Z",
+            "owner": "TheAlgorithms",
+            "repo": "Python",
+            "stars": 223706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":books: Python Intermediate Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-26T19:50:47Z",
+            "owner": "patrickloeber",
+            "repo": "python-engineer-notebooks",
+            "stars": 802
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Others"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:08:16.472Z",
+    "original_repository": "shahednasser/awesome-resources",
+    "original_repository_sha": "db8c5efb347aabec454913056089a047e96b85bf",
+    "enhanced_repository": "enhansome/enhansome-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome Resources with stars"
+  }
+}
