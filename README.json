@@ -24,7 +24,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12281
+            "stars": 12282
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208045
+            "stars": 208055
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33610
+            "stars": 33609
           }
         }
       ],
@@ -92,7 +92,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118431
+            "stars": 118484
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184671
+            "stars": 184673
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2025-01-30T10:47:23Z",
             "owner": "thejsway",
             "repo": "thejsway",
-            "stars": 7882
+            "stars": 7881
           }
         },
         {
@@ -162,7 +162,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T16:02:09Z",
+            "last_commit": "2026-08-17T07:27:29Z",
             "owner": "js-org",
             "repo": "js.org",
             "stars": 5831
@@ -219,7 +219,7 @@
             "last_commit": "2026-08-03T18:44:56Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 223772
+            "stars": 223779
           }
         },
         {
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:28:40.804Z",
+    "last_updated": "2026-08-17T09:42:47.665Z",
     "original_repository": "shahednasser/awesome-resources",
     "original_repository_sha": "db8c5efb347aabec454913056089a047e96b85bf",
     "enhanced_repository": "enhansome/enhansome-resources",
