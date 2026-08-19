@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "To add a resource or contribute, please check out our contribution guide here.",
-      "items": [],
-      "title": "Contribution"
-    },
-    {
-      "description": "(If you're viewing this one the website, try clicking the icon buttons to filter the items in the list based on the category)\nThroughout this list you'll see next to each resource and emoji. Here's what each mean:\n:books: Course, long series or list of tutorials, or books\n:file_folder: Documentation\n:speaker: Podcast\n:green_book: Single Tutorial\n:wrench: Tool\n:video_camera: Video Resource (Youtube, video course, etc...)\n:bulb: Other",
-      "items": [],
-      "title": "Emojis Filter and Cheatsheet"
-    },
-    {
-      "description": "",
+      "description": "⬆ Back to Index",
       "items": [
         {
           "node_type": "item",
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21780562,
             "language": null,
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66590822,
             "language": "Java",
             "last_commit": "2025-06-08T16:59:07Z",
             "owner": "nisrulz",
@@ -45,7 +37,7 @@
       "title": "Android"
     },
     {
-      "description": "",
+      "description": "⬆ Back to Index",
       "items": [
         {
           "node_type": "item",
@@ -54,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19415064,
             "language": "HTML",
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208106
+            "stars": 208156
           }
         },
         {
@@ -68,18 +61,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21600440,
             "language": "Ruby",
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33611
+            "stars": 33609
           }
         }
       ],
       "title": "Computer Science"
     },
     {
-      "description": "",
+      "description": "⬆ Back to Index",
       "items": [
         {
           "node_type": "item",
@@ -88,11 +82,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55076063,
             "language": null,
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118537
+            "stars": 118601
           }
         },
         {
@@ -102,29 +97,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246183538,
             "language": "Python",
             "last_commit": "2023-02-12T00:50:34Z",
             "owner": "TCM-Course-Resources",
             "repo": "Practical-Ethical-Hacking-Resources",
-            "stars": 6112
+            "stars": 6113
           }
-        },
-        {
-          "node_type": "item",
-          "title": ":wrench: Open Source Reverse Engineering Platform",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Ethical Hacking"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Fundamental CP algorithms"
-    },
-    {
-      "description": "",
+      "description": "⬆ Back to Index",
       "items": [
         {
           "node_type": "item",
@@ -133,11 +118,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14440270,
             "language": null,
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184703
+            "stars": 184712
           }
         },
         {
@@ -147,6 +133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76290091,
             "language": "CSS",
             "last_commit": "2025-01-30T10:47:23Z",
             "owner": "thejsway",
@@ -161,18 +148,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33578240,
             "language": "JavaScript",
             "last_commit": "2026-08-17T19:39:06Z",
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5834
+            "stars": 5835
           }
         }
       ],
       "title": "Javascript"
     },
     {
-      "description": "",
+      "description": "⬆ Back to Index",
       "items": [
         {
           "node_type": "item",
@@ -181,6 +169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44771822,
             "language": "Shell",
             "last_commit": "2026-08-14T19:33:14Z",
             "owner": "markshust",
@@ -195,6 +184,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147679050,
             "language": "Shell",
             "last_commit": "2023-03-27T14:04:23Z",
             "owner": "zepgram",
@@ -206,7 +196,7 @@
       "title": "Magento"
     },
     {
-      "description": "",
+      "description": "⬆ Back to Index",
       "items": [
         {
           "node_type": "item",
@@ -215,11 +205,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63476337,
             "language": "Python",
             "last_commit": "2026-08-03T18:44:56Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 223831
+            "stars": 223861
           }
         },
         {
@@ -229,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187474972,
             "language": "Jupyter Notebook",
             "last_commit": "2024-02-26T19:50:47Z",
             "owner": "patrickloeber",
@@ -238,15 +230,10 @@
         }
       ],
       "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:34:52.538Z",
+    "last_updated": "2026-08-19T09:35:26.613Z",
     "original_repository": "shahednasser/awesome-resources",
     "original_repository_sha": "db8c5efb347aabec454913056089a047e96b85bf",
     "enhanced_repository": "enhansome/enhansome-resources",
