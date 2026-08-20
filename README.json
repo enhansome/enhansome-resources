@@ -15,7 +15,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12285
+            "stars": 12287
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208160
+            "stars": 208214
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33609
+            "stars": 33611
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118613
+            "stars": 118681
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2023-02-12T00:50:34Z",
             "owner": "TCM-Course-Resources",
             "repo": "Practical-Ethical-Hacking-Resources",
-            "stars": 6113
+            "stars": 6114
           }
         }
       ],
@@ -123,7 +123,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184711
+            "stars": 184715
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2025-01-30T10:47:23Z",
             "owner": "thejsway",
             "repo": "thejsway",
-            "stars": 7881
+            "stars": 7880
           }
         },
         {
@@ -150,10 +150,10 @@
             "archived": false,
             "id": 33578240,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T19:39:06Z",
+            "last_commit": "2026-08-19T14:27:19Z",
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5835
+            "stars": 5834
           }
         }
       ],
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-14T19:33:14Z",
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2860
+            "stars": 2861
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-03T18:44:56Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 223864
+            "stars": 223894
           }
         },
         {
@@ -233,7 +233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:01.050Z",
+    "last_updated": "2026-08-20T09:35:44.038Z",
     "original_repository": "shahednasser/awesome-resources",
     "original_repository_id": 297714663,
     "original_repository_sha": "db8c5efb347aabec454913056089a047e96b85bf",
