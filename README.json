@@ -30,7 +30,7 @@
             "last_commit": "2025-06-08T16:59:07Z",
             "owner": "nisrulz",
             "repo": "android-tips-tricks",
-            "stars": 4749
+            "stars": 4750
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208267
+            "stars": 208309
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33614
+            "stars": 33617
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118735
+            "stars": 118794
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184706
+            "stars": 184711
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2025-01-30T10:47:23Z",
             "owner": "thejsway",
             "repo": "thejsway",
-            "stars": 7880
+            "stars": 7881
           }
         },
         {
@@ -150,10 +150,10 @@
             "archived": false,
             "id": 33578240,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T08:55:08Z",
+            "last_commit": "2026-08-21T13:49:37Z",
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5834
+            "stars": 5835
           }
         }
       ],
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 63476337,
             "language": "Python",
-            "last_commit": "2026-08-03T18:44:56Z",
+            "last_commit": "2026-08-21T18:46:06Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 223913
+            "stars": 223941
           }
         },
         {
@@ -233,7 +233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:37:52.567Z",
+    "last_updated": "2026-08-22T09:27:31.164Z",
     "original_repository": "shahednasser/awesome-resources",
     "original_repository_id": 297714663,
     "original_repository_sha": "db8c5efb347aabec454913056089a047e96b85bf",
