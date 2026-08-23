@@ -15,7 +15,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12291
+            "stars": 12293
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208309
+            "stars": 208338
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33617
+            "stars": 33618
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118794
+            "stars": 118854
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2023-02-12T00:50:34Z",
             "owner": "TCM-Course-Resources",
             "repo": "Practical-Ethical-Hacking-Resources",
-            "stars": 6115
+            "stars": 6114
           }
         }
       ],
@@ -123,7 +123,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184711
+            "stars": 184716
           }
         },
         {
@@ -150,10 +150,10 @@
             "archived": false,
             "id": 33578240,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T13:49:37Z",
+            "last_commit": "2026-08-22T09:34:05Z",
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5835
+            "stars": 5837
           }
         }
       ],
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-21T18:46:06Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 223941
+            "stars": 223957
           }
         },
         {
@@ -233,7 +233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:27:31.164Z",
+    "last_updated": "2026-08-23T09:29:08.152Z",
     "original_repository": "shahednasser/awesome-resources",
     "original_repository_id": 297714663,
     "original_repository_sha": "db8c5efb347aabec454913056089a047e96b85bf",
