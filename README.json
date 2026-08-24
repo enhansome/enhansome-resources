@@ -15,7 +15,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12293
+            "stars": 12296
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208338
+            "stars": 208377
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33618
+            "stars": 33621
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118854
+            "stars": 118935
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184716
+            "stars": 184718
           }
         },
         {
@@ -150,10 +150,10 @@
             "archived": false,
             "id": 33578240,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T09:34:05Z",
+            "last_commit": "2026-08-23T14:58:53Z",
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5837
+            "stars": 5838
           }
         }
       ],
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-20T12:51:05Z",
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2861
+            "stars": 2862
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-21T18:46:06Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 223957
+            "stars": 223982
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2024-02-26T19:50:47Z",
             "owner": "patrickloeber",
             "repo": "python-engineer-notebooks",
-            "stars": 802
+            "stars": 803
           }
         }
       ],
@@ -233,7 +233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:29:08.152Z",
+    "last_updated": "2026-08-24T09:49:43.925Z",
     "original_repository": "shahednasser/awesome-resources",
     "original_repository_id": 297714663,
     "original_repository_sha": "db8c5efb347aabec454913056089a047e96b85bf",
