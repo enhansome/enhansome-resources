@@ -51,7 +51,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208377
+            "stars": 208380
           }
         },
         {
@@ -66,11 +66,95 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33621
+            "stars": 33620
           }
         }
       ],
       "title": "Computer Science"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":books: Freely available programming books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13491895,
+            "language": "Python",
+            "last_commit": "2026-08-18T14:16:15Z",
+            "owner": "EbookFoundation",
+            "repo": "free-programming-books",
+            "stars": 395133
+          }
+        }
+      ],
+      "title": "Theoretical Computer Science"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":wrench: CSS Selector Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122220871,
+            "language": "HTML",
+            "last_commit": "2025-11-20T21:28:49Z",
+            "owner": "antonmedv",
+            "repo": "finder",
+            "stars": 1485
+          }
+        }
+      ],
+      "title": "CSS"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":bulb: Machine Learning Algorithms from Scratch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189601062,
+            "language": "Python",
+            "last_commit": "2024-02-01T21:26:03Z",
+            "owner": "patrickloeber",
+            "repo": "MLfromscratch",
+            "stars": 1639
+          }
+        }
+      ],
+      "title": "Data Science"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":file_folder: 90DaysOfDevOps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 441903012,
+            "language": "Shell",
+            "last_commit": "2026-06-24T15:29:07Z",
+            "owner": "MichaelCade",
+            "repo": "90DaysOfDevOps",
+            "stars": 29665
+          }
+        }
+      ],
+      "title": "DevOps"
     },
     {
       "description": "⬆ Back to Index",
@@ -87,7 +171,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118935
+            "stars": 118949
           }
         },
         {
@@ -107,6 +191,48 @@
         }
       ],
       "title": "Ethical Hacking"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":books: Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 342255807,
+            "language": "HTML",
+            "last_commit": "2025-12-09T11:04:10Z",
+            "owner": "bobbyiliev",
+            "repo": "introduction-to-git-and-github-ebook",
+            "stars": 1089
+          }
+        }
+      ],
+      "title": "GIT"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":bulb: Awesome Ionic - A curated list of awesome Ionic libraries, resources, and solutions from Ionic 1 to the latest version of the framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26858332,
+            "language": null,
+            "last_commit": "2021-04-18T23:43:16Z",
+            "owner": "Alexintosh",
+            "repo": "Awesome-Ionic",
+            "stars": 1462
+          }
+        }
+      ],
+      "title": "Ionic"
     },
     {
       "description": "⬆ Back to Index",
@@ -200,6 +326,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": ":bulb: List of Badges, in Markdown",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70745419,
+            "language": "Makefile",
+            "last_commit": "2026-05-07T06:03:10Z",
+            "owner": "Naereen",
+            "repo": "badges",
+            "stars": 4634
+          }
+        }
+      ],
+      "title": "Markdown"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":bulb: SQL Cheat Sheet - ABZ-Aaron",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 390833165,
+            "language": null,
+            "last_commit": "2022-07-25T07:39:15Z",
+            "owner": "ABZ-Aaron",
+            "repo": "cheat-sheets",
+            "stars": 1712
+          }
+        }
+      ],
+      "title": "PostgreSQL"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [
+        {
+          "node_type": "item",
           "title": ":bulb: TheAlgorithms/Python: All Algorithms implemented in Python",
           "description": null,
           "children": [],
@@ -210,7 +378,7 @@
             "last_commit": "2026-08-21T18:46:06Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 223982
+            "stars": 223987
           }
         },
         {
@@ -230,10 +398,101 @@
         }
       ],
       "title": "Python"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":bulb: Rustlings - small exercises to get you used to reading and writing Rust code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42489829,
+            "language": "Rust",
+            "last_commit": "2026-08-22T11:33:37Z",
+            "owner": "rust-lang",
+            "repo": "rustlings",
+            "stars": 63935
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":bulb: Terraform Study Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 270434288,
+            "language": "HCL",
+            "last_commit": "2023-04-11T07:39:35Z",
+            "owner": "ari-hacks",
+            "repo": "terraform-study-guide",
+            "stars": 145
+          }
+        }
+      ],
+      "title": "Terraform"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":bulb: Clean Code concepts adapted for TypeScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167032345,
+            "language": "TypeScript",
+            "last_commit": "2025-07-01T14:56:36Z",
+            "owner": "labs42io",
+            "repo": "clean-code-typescript",
+            "stars": 9801
+          }
+        }
+      ],
+      "title": "Typescript"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":green_book: How to run graphics.h in VS Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334237773,
+                "language": "C++",
+                "last_commit": "2026-03-28T17:54:40Z",
+                "owner": "ullaskunder3",
+                "repo": "Solution-to-graphics.h",
+                "stars": 58
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "VS Code"
+        }
+      ],
+      "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:49:43.925Z",
+    "last_updated": "2026-08-24T14:07:19.220Z",
     "original_repository": "shahednasser/awesome-resources",
     "original_repository_id": 297714663,
     "original_repository_sha": "db8c5efb347aabec454913056089a047e96b85bf",
