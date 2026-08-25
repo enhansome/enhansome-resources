@@ -51,7 +51,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208401
+            "stars": 208404
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33625
+            "stars": 33624
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395172
+            "stars": 395183
           }
         }
       ],
@@ -171,7 +171,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118988
+            "stars": 118997
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184721
+            "stars": 184724
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-08-21T18:46:06Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 224006
+            "stars": 224011
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-08-24T21:17:41Z",
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 63941
+            "stars": 63943
           }
         }
       ],
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:55.633Z",
+    "last_updated": "2026-08-25T09:36:50.997Z",
     "original_repository": "shahednasser/awesome-resources",
     "original_repository_id": 297714663,
     "original_repository_sha": "db8c5efb347aabec454913056089a047e96b85bf",
