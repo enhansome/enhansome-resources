@@ -30,7 +30,7 @@
             "last_commit": "2025-06-08T16:59:07Z",
             "owner": "nisrulz",
             "repo": "android-tips-tricks",
-            "stars": 4750
+            "stars": 4749
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208404
+            "stars": 208418
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395183
+            "stars": 395244
           }
         }
       ],
@@ -129,7 +129,7 @@
             "last_commit": "2024-02-01T21:26:03Z",
             "owner": "patrickloeber",
             "repo": "MLfromscratch",
-            "stars": 1639
+            "stars": 1641
           }
         }
       ],
@@ -171,7 +171,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118997
+            "stars": 119061
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184724
+            "stars": 184726
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2025-01-30T10:47:23Z",
             "owner": "thejsway",
             "repo": "thejsway",
-            "stars": 7881
+            "stars": 7880
           }
         },
         {
@@ -276,10 +276,10 @@
             "archived": false,
             "id": 33578240,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:58:15Z",
+            "last_commit": "2026-08-25T18:18:29Z",
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5838
+            "stars": 5840
           }
         }
       ],
@@ -336,7 +336,7 @@
             "last_commit": "2026-05-07T06:03:10Z",
             "owner": "Naereen",
             "repo": "badges",
-            "stars": 4637
+            "stars": 4635
           }
         }
       ],
@@ -357,7 +357,7 @@
             "last_commit": "2022-07-25T07:39:15Z",
             "owner": "ABZ-Aaron",
             "repo": "cheat-sheets",
-            "stars": 1712
+            "stars": 1711
           }
         }
       ],
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 63476337,
             "language": "Python",
-            "last_commit": "2026-08-21T18:46:06Z",
+            "last_commit": "2026-08-25T14:09:01Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 224011
+            "stars": 224037
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-08-24T21:17:41Z",
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 63943
+            "stars": 63951
           }
         }
       ],
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:36:50.997Z",
+    "last_updated": "2026-08-26T09:43:00.081Z",
     "original_repository": "shahednasser/awesome-resources",
     "original_repository_id": 297714663,
     "original_repository_sha": "db8c5efb347aabec454913056089a047e96b85bf",
