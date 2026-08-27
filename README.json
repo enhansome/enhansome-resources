@@ -15,7 +15,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12298
+            "stars": 12299
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-06-08T16:59:07Z",
             "owner": "nisrulz",
             "repo": "android-tips-tricks",
-            "stars": 4749
+            "stars": 4748
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208452
+            "stars": 208468
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33628
+            "stars": 33631
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395317
+            "stars": 395353
           }
         }
       ],
@@ -171,7 +171,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119151
+            "stars": 119185
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184741
+            "stars": 184743
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-08-27T11:13:49Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 224053
+            "stars": 224061
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2024-02-26T19:50:47Z",
             "owner": "patrickloeber",
             "repo": "python-engineer-notebooks",
-            "stars": 803
+            "stars": 804
           }
         }
       ],
@@ -414,7 +414,7 @@
             "last_commit": "2026-08-24T21:17:41Z",
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 63962
+            "stars": 63967
           }
         }
       ],
@@ -456,7 +456,7 @@
             "last_commit": "2025-07-01T14:56:36Z",
             "owner": "labs42io",
             "repo": "clean-code-typescript",
-            "stars": 9803
+            "stars": 9804
           }
         }
       ],
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:20.719Z",
+    "last_updated": "2026-08-27T19:39:30.291Z",
     "original_repository_info": {
       "archived": false,
       "id": 297714663,
