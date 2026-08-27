@@ -15,7 +15,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12297
+            "stars": 12298
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208418
+            "stars": 208452
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33624
+            "stars": 33628
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395244
+            "stars": 395317
           }
         }
       ],
@@ -150,7 +150,7 @@
             "last_commit": "2026-06-24T15:29:07Z",
             "owner": "MichaelCade",
             "repo": "90DaysOfDevOps",
-            "stars": 29665
+            "stars": 29668
           }
         }
       ],
@@ -171,7 +171,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119061
+            "stars": 119151
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184726
+            "stars": 184741
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2025-01-30T10:47:23Z",
             "owner": "thejsway",
             "repo": "thejsway",
-            "stars": 7880
+            "stars": 7879
           }
         },
         {
@@ -276,10 +276,10 @@
             "archived": false,
             "id": 33578240,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T18:18:29Z",
+            "last_commit": "2026-08-26T19:55:43Z",
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5840
+            "stars": 5841
           }
         }
       ],
@@ -336,7 +336,7 @@
             "last_commit": "2026-05-07T06:03:10Z",
             "owner": "Naereen",
             "repo": "badges",
-            "stars": 4635
+            "stars": 4638
           }
         }
       ],
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 63476337,
             "language": "Python",
-            "last_commit": "2026-08-25T14:09:01Z",
+            "last_commit": "2026-08-27T11:13:49Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 224037
+            "stars": 224053
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-08-24T21:17:41Z",
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 63951
+            "stars": 63962
           }
         }
       ],
@@ -456,7 +456,7 @@
             "last_commit": "2025-07-01T14:56:36Z",
             "owner": "labs42io",
             "repo": "clean-code-typescript",
-            "stars": 9801
+            "stars": 9803
           }
         }
       ],
@@ -492,9 +492,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:43:00.081Z",
-    "original_repository": "shahednasser/awesome-resources",
-    "original_repository_id": 297714663,
+    "last_updated": "2026-08-27T12:00:20.719Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 297714663,
+      "language": "HTML",
+      "last_commit": "2024-08-21T10:49:01Z",
+      "owner": "shahednasser",
+      "repo": "awesome-resources",
+      "stars": 1961
+    },
     "original_repository_sha": "db8c5efb347aabec454913056089a047e96b85bf",
     "enhanced_repository": "enhansome/enhansome-resources",
     "enhanced_repository_description": null,
