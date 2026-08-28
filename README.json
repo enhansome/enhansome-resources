@@ -15,8 +15,9 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12299
-          }
+            "stars": 12303
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "nisrulz",
             "repo": "android-tips-tricks",
             "stars": 4748
-          }
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Android"
@@ -51,8 +53,9 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208468
-          }
+            "stars": 208479
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33631
-          }
+            "stars": 33634
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Computer Science"
@@ -87,8 +91,9 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395353
-          }
+            "stars": 395459
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Theoretical Computer Science"
@@ -108,8 +113,9 @@
             "last_commit": "2025-11-20T21:28:49Z",
             "owner": "antonmedv",
             "repo": "finder",
-            "stars": 1485
-          }
+            "stars": 1486
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "CSS"
@@ -130,7 +136,8 @@
             "owner": "patrickloeber",
             "repo": "MLfromscratch",
             "stars": 1641
-          }
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Data Science"
@@ -150,8 +157,9 @@
             "last_commit": "2026-06-24T15:29:07Z",
             "owner": "MichaelCade",
             "repo": "90DaysOfDevOps",
-            "stars": 29668
-          }
+            "stars": 29670
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "DevOps"
@@ -171,8 +179,9 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119185
-          }
+            "stars": 119247
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         },
         {
           "node_type": "item",
@@ -186,8 +195,9 @@
             "last_commit": "2023-02-12T00:50:34Z",
             "owner": "TCM-Course-Resources",
             "repo": "Practical-Ethical-Hacking-Resources",
-            "stars": 6113
-          }
+            "stars": 6112
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Ethical Hacking"
@@ -208,7 +218,8 @@
             "owner": "bobbyiliev",
             "repo": "introduction-to-git-and-github-ebook",
             "stars": 1089
-          }
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "GIT"
@@ -229,7 +240,8 @@
             "owner": "Alexintosh",
             "repo": "Awesome-Ionic",
             "stars": 1462
-          }
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Ionic"
@@ -249,8 +261,9 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184743
-          }
+            "stars": 184749
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         },
         {
           "node_type": "item",
@@ -265,7 +278,8 @@
             "owner": "thejsway",
             "repo": "thejsway",
             "stars": 7879
-          }
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         },
         {
           "node_type": "item",
@@ -279,8 +293,9 @@
             "last_commit": "2026-08-26T19:55:43Z",
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5841
-          }
+            "stars": 5843
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Javascript"
@@ -300,8 +315,9 @@
             "last_commit": "2026-08-20T12:51:05Z",
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2862
-          }
+            "stars": 2863
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         },
         {
           "node_type": "item",
@@ -316,7 +332,8 @@
             "owner": "zepgram",
             "repo": "magento2-fast-vm",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Magento"
@@ -336,8 +353,9 @@
             "last_commit": "2026-05-07T06:03:10Z",
             "owner": "Naereen",
             "repo": "badges",
-            "stars": 4638
-          }
+            "stars": 4639
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Markdown"
@@ -358,7 +376,8 @@
             "owner": "ABZ-Aaron",
             "repo": "cheat-sheets",
             "stars": 1711
-          }
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "PostgreSQL"
@@ -375,11 +394,12 @@
             "archived": false,
             "id": 63476337,
             "language": "Python",
-            "last_commit": "2026-08-27T11:13:49Z",
+            "last_commit": "2026-08-28T13:50:15Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 224061
-          }
+            "stars": 224078
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         },
         {
           "node_type": "item",
@@ -394,7 +414,8 @@
             "owner": "patrickloeber",
             "repo": "python-engineer-notebooks",
             "stars": 804
-          }
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Python"
@@ -414,8 +435,9 @@
             "last_commit": "2026-08-24T21:17:41Z",
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 63967
-          }
+            "stars": 63984
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Rust"
@@ -436,7 +458,8 @@
             "owner": "ari-hacks",
             "repo": "terraform-study-guide",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Terraform"
@@ -456,8 +479,9 @@
             "last_commit": "2025-07-01T14:56:36Z",
             "owner": "labs42io",
             "repo": "clean-code-typescript",
-            "stars": 9804
-          }
+            "stars": 9805
+          },
+          "first_seen": "2026-08-28T20:44:39.285Z"
         }
       ],
       "title": "Typescript"
@@ -480,7 +504,8 @@
                 "owner": "ullaskunder3",
                 "repo": "Solution-to-graphics.h",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T20:44:39.285Z"
             }
           ],
           "description": null,
@@ -492,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:39:30.291Z",
+    "last_updated": "2026-08-28T20:44:39.285Z",
     "original_repository_info": {
       "archived": false,
       "id": 297714663,
