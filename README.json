@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Android packages and resources.",
+            "homepage": null,
             "id": 21780562,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-10-27T08:14:07Z",
+            "open_issues": 95,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12303
+            "stars": 12303,
+            "topics": [
+              "android-development",
+              "android-library",
+              "android-tutorial",
+              "awesome",
+              "awesome-list",
+              "awesome-list-awesome-list",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         },
@@ -26,12 +39,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development",
+            "homepage": "https://nisrulz.com/android-tips-tricks/",
             "id": 66590822,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-08T16:59:07Z",
+            "open_issues": 2,
             "owner": "nisrulz",
             "repo": "android-tips-tricks",
-            "stars": 4748
+            "stars": 4748,
+            "topics": [
+              "adb",
+              "android",
+              "android-developers",
+              "android-development",
+              "android-library",
+              "android-studio",
+              "cheatsheet",
+              "gradle",
+              "java",
+              "kotlin",
+              "material",
+              "performance",
+              "tips",
+              "tricks"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -48,12 +81,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "homepage": "https://cs.ossu.dev",
             "id": 19415064,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-14T05:38:25Z",
+            "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208479
+            "stars": 208490,
+            "topics": [
+              "awesome-list",
+              "computer-science",
+              "courses",
+              "curriculum"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         },
@@ -64,12 +107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome awesomeness",
+            "homepage": null,
             "id": 21600440,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
+            "open_issues": 61,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33634
+            "stars": 33634,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -86,12 +134,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: Freely available programming books",
+            "homepage": "https://ebookfoundation.github.io/free-programming-books/",
             "id": 13491895,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-18T14:16:15Z",
+            "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395459
+            "stars": 395482,
+            "topics": [
+              "books",
+              "education",
+              "hacktoberfest",
+              "list",
+              "resource"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -108,12 +167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS Selector Generator 🗺",
+            "homepage": null,
             "id": 122220871,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-11-20T21:28:49Z",
+            "open_issues": 19,
             "owner": "antonmedv",
             "repo": "finder",
-            "stars": 1486
+            "stars": 1486,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -130,12 +194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning algorithm implementations from scratch.",
+            "homepage": null,
             "id": 189601062,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-01T21:26:03Z",
+            "open_issues": 10,
             "owner": "patrickloeber",
             "repo": "MLfromscratch",
-            "stars": 1641
+            "stars": 1641,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -152,12 +221,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. ",
+            "homepage": "https://www.90daysofdevops.com/",
             "id": 441903012,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-24T15:29:07Z",
+            "open_issues": 10,
             "owner": "MichaelCade",
             "repo": "90DaysOfDevOps",
-            "stars": 29670
+            "stars": 29670,
+            "topics": [
+              "ansible",
+              "backup",
+              "containers",
+              "devops",
+              "iac",
+              "kubernetes",
+              "networking",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -174,12 +257,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+            "homepage": null,
             "id": 55076063,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-26T03:29:02Z",
+            "open_issues": 40,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119247
+            "stars": 119268,
+            "topics": [
+              "android",
+              "awesome",
+              "bug-bounty",
+              "fuzzing",
+              "hacking",
+              "penetration-testing",
+              "pentesting-windows",
+              "reverse-engineering",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         },
@@ -190,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course ",
+            "homepage": null,
             "id": 246183538,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-12T00:50:34Z",
+            "open_issues": 7,
             "owner": "TCM-Course-Resources",
             "repo": "Practical-Ethical-Hacking-Resources",
-            "stars": 6112
+            "stars": 6112,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -212,12 +315,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Introduction to Git and GitHub eBook",
+            "homepage": "https://leanpub.com/b/linux-devops-ebook-bundle",
             "id": 342255807,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-12-09T11:04:10Z",
+            "open_issues": 2,
             "owner": "bobbyiliev",
             "repo": "introduction-to-git-and-github-ebook",
-            "stars": 1089
+            "stars": 1089,
+            "topics": [
+              "devops",
+              "ebook",
+              "git",
+              "github",
+              "hacktoberfest",
+              "opensource"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -234,12 +349,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 A curated list of amazingly awesome Ionic libraries, resources and solutions.",
+            "homepage": null,
             "id": 26858332,
             "language": null,
+            "license": null,
             "last_commit": "2021-04-18T23:43:16Z",
+            "open_issues": 14,
             "owner": "Alexintosh",
             "repo": "Awesome-Ionic",
-            "stars": 1462
+            "stars": 1462,
+            "topics": [
+              "angular",
+              "cordova-plugin",
+              "ionic",
+              "ionic-libraries"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -256,12 +381,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A book series (2 published editions) on the JS language.",
+            "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
             "id": 14440270,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-02-15T04:36:44Z",
+            "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184749
+            "stars": 184747,
+            "topics": [
+              "async",
+              "book",
+              "book-series",
+              "closures",
+              "education",
+              "es2015",
+              "es6",
+              "javascript",
+              "learn-to-code",
+              "programming",
+              "prototypes",
+              "training-materials",
+              "training-providers"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         },
@@ -272,12 +416,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The JavaScript Way book",
+            "homepage": "https://thejsway.net",
             "id": 76290091,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-30T10:47:23Z",
+            "open_issues": 4,
             "owner": "thejsway",
             "repo": "thejsway",
-            "stars": 7879
+            "stars": 7880,
+            "topics": [
+              "book",
+              "es2015",
+              "es6",
+              "free",
+              "javascript",
+              "learn-to-code"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         },
@@ -288,12 +444,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dedicated to JavaScript and its awesome community since 2015 ",
+            "homepage": "https://JS.ORG",
             "id": 33578240,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T19:55:43Z",
+            "license": null,
+            "last_commit": "2026-08-28T21:46:09Z",
+            "open_issues": 7,
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5843
+            "stars": 5843,
+            "topics": [
+              "community",
+              "custom-domains",
+              "dns",
+              "domain",
+              "free",
+              "github-pages",
+              "javascript",
+              "subdomain"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -310,12 +480,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mark Shust's Docker Configuration for Magento",
+            "homepage": "https://m.academy/courses/set-up-magento-2-development-environment-docker/",
             "id": 44771822,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-20T12:51:05Z",
+            "open_issues": 2,
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2863
+            "stars": 2863,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "docker-magento",
+              "hacktoberfest",
+              "magento",
+              "magento-2",
+              "magento2"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         },
@@ -326,12 +509,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimal vagrant developer box for Magento2. Folders synced by nfs/rsync. This box includes Magento developer utilities.",
+            "homepage": null,
             "id": 147679050,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-03-27T14:04:23Z",
+            "open_issues": 2,
             "owner": "zepgram",
             "repo": "magento2-fast-vm",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "devbox",
+              "elasticsearch",
+              "linux",
+              "macos",
+              "magento-developer-box",
+              "magento2",
+              "mysql8",
+              "nfs",
+              "nginx-php-fpm",
+              "percona-server",
+              "php81",
+              "redis",
+              "rsync",
+              "shell-script",
+              "vagrant",
+              "virtualbox",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -348,12 +554,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!",
+            "homepage": "https://naereen.github.io/badges/",
             "id": 70745419,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2026-05-07T06:03:10Z",
+            "open_issues": 1,
             "owner": "Naereen",
             "repo": "badges",
-            "stars": 4639
+            "stars": 4639,
+            "topics": [
+              "awesome",
+              "badges",
+              "forthebadge",
+              "forthebadge-cc",
+              "markdown",
+              "markdown-cheatsheet",
+              "markup",
+              "meta-badge",
+              "pokemon",
+              "python",
+              "restructuredtext"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -370,12 +593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just a place to store cheatsheets",
+            "homepage": null,
             "id": 390833165,
             "language": null,
+            "license": null,
             "last_commit": "2022-07-25T07:39:15Z",
+            "open_issues": 2,
             "owner": "ABZ-Aaron",
             "repo": "cheat-sheets",
-            "stars": 1711
+            "stars": 1711,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -392,12 +620,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All Algorithms implemented in Python",
+            "homepage": "https://thealgorithms.github.io/Python/",
             "id": 63476337,
             "language": "Python",
-            "last_commit": "2026-08-28T13:50:15Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:17:23Z",
+            "open_issues": 1063,
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 224078
+            "stars": 224083,
+            "topics": [
+              "algorithm",
+              "algorithm-competitions",
+              "algorithms-implemented",
+              "algos",
+              "community-driven",
+              "education",
+              "hacktoberfest",
+              "interview",
+              "learn",
+              "practice",
+              "python",
+              "searches",
+              "sorting-algorithms",
+              "sorts"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         },
@@ -408,12 +656,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 187474972,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-02-26T19:50:47Z",
+            "open_issues": 5,
             "owner": "patrickloeber",
             "repo": "python-engineer-notebooks",
-            "stars": 804
+            "stars": 804,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -430,12 +683,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":crab: Small exercises to get you used to reading and writing Rust code!",
+            "homepage": "https://rustlings.rust-lang.org",
             "id": 42489829,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:17:41Z",
+            "open_issues": 34,
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 63984
+            "stars": 63986,
+            "topics": [
+              "beginner-friendly",
+              "exercises",
+              "rust",
+              "rustlings"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -452,12 +715,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 Study Guide for the Terraform Associate Certification",
+            "homepage": null,
             "id": 270434288,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2023-04-11T07:39:35Z",
+            "open_issues": 1,
             "owner": "ari-hacks",
             "repo": "terraform-study-guide",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "hashicorp",
+              "hashicorp-terraform",
+              "hcl",
+              "iac",
+              "infrastructure-as-code",
+              "terraform",
+              "terraform-cloud"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -474,12 +750,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clean Code concepts adapted for TypeScript",
+            "homepage": "https://labs42io.github.io/clean-code-typescript",
             "id": 167032345,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-01T14:56:36Z",
+            "open_issues": 3,
             "owner": "labs42io",
             "repo": "clean-code-typescript",
-            "stars": 9805
+            "stars": 9805,
+            "topics": [
+              "best-practices",
+              "clean-architecture",
+              "clean-code",
+              "coding-guidelines",
+              "principles",
+              "solid",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
         }
@@ -498,12 +787,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My vs code setup for graphics.h ( I know its old, have to learn because of university they use turbo 😱. Vs code is way better 😍)",
+                "homepage": "https://ullaskunder3.github.io/Solution-to-graphics.h/",
                 "id": 334237773,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-03-28T17:54:40Z",
+                "open_issues": 0,
                 "owner": "ullaskunder3",
                 "repo": "Solution-to-graphics.h",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "bgi",
+                  "cpp",
+                  "graphics",
+                  "mingw",
+                  "vscode",
+                  "winbgi-graphics"
+                ]
               },
               "first_seen": "2026-08-28T20:44:39.285Z"
             }
@@ -517,15 +818,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:44:39.285Z",
+    "last_updated": "2026-08-29T04:25:34.422Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":sunglasses: List of helpful resources added by the community for the community!",
+      "homepage": "https://shahednasser.github.io/awesome-resources/",
       "id": 297714663,
       "language": "HTML",
+      "license": null,
       "last_commit": "2024-08-21T10:49:01Z",
+      "open_issues": 208,
       "owner": "shahednasser",
       "repo": "awesome-resources",
-      "stars": 1961
+      "stars": 1961,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "awesome-resources",
+        "hacktoberfest",
+        "jekyll",
+        "ruby",
+        "sass"
+      ]
     },
     "original_repository_sha": "db8c5efb347aabec454913056089a047e96b85bf",
     "enhanced_repository": "enhansome/enhansome-resources",
