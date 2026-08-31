@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-10-27T08:14:07Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12306,
+            "stars": 12304,
             "topics": [
               "android-development",
               "android-library",
@@ -90,7 +90,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208552,
+            "stars": 208579,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -140,10 +140,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-08-30T08:24:39Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395579,
+            "stars": 395658,
             "topics": [
               "books",
               "education",
@@ -230,7 +230,7 @@
             "open_issues": 10,
             "owner": "MichaelCade",
             "repo": "90DaysOfDevOps",
-            "stars": 29680,
+            "stars": 29688,
             "topics": [
               "ansible",
               "backup",
@@ -266,7 +266,7 @@
             "open_issues": 40,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119364,
+            "stars": 119435,
             "topics": [
               "android",
               "awesome",
@@ -297,7 +297,7 @@
             "open_issues": 7,
             "owner": "TCM-Course-Resources",
             "repo": "Practical-Ethical-Hacking-Resources",
-            "stars": 6113,
+            "stars": 6114,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
@@ -390,7 +390,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184758,
+            "stars": 184761,
             "topics": [
               "async",
               "book",
@@ -449,8 +449,8 @@
             "id": 33578240,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-08-29T17:43:25Z",
-            "open_issues": 10,
+            "last_commit": "2026-08-31T07:08:25Z",
+            "open_issues": 9,
             "owner": "js-org",
             "repo": "js.org",
             "stars": 5844,
@@ -625,11 +625,11 @@
             "id": 63476337,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T10:59:57Z",
-            "open_issues": 1063,
+            "last_commit": "2026-08-31T06:01:51Z",
+            "open_issues": 1060,
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 224131,
+            "stars": 224144,
             "topics": [
               "algorithm",
               "algorithm-competitions",
@@ -665,7 +665,7 @@
             "open_issues": 5,
             "owner": "patrickloeber",
             "repo": "python-engineer-notebooks",
-            "stars": 803,
+            "stars": 804,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
@@ -692,7 +692,7 @@
             "open_issues": 32,
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 64009,
+            "stars": 64013,
             "topics": [
               "beginner-friendly",
               "exercises",
@@ -759,7 +759,7 @@
             "open_issues": 3,
             "owner": "labs42io",
             "repo": "clean-code-typescript",
-            "stars": 9806,
+            "stars": 9807,
             "topics": [
               "best-practices",
               "clean-architecture",
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:18:57.237Z",
+    "last_updated": "2026-08-31T16:48:00.929Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: List of helpful resources added by the community for the community!",
