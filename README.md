@@ -2,7 +2,7 @@
 
 :sunglasses: List of helpful resources added by the community for the community!
 
-> Please read [this discussion](https://github.com/shahednasser/awesome-resources/discussions/433) ⭐ 1,960 | 🐛 208 | 🌐 HTML | 📅 2024-08-21 before contributing to Hacktoberfest.
+> Please read [this discussion](https://github.com/shahednasser/awesome-resources/discussions/433) ⭐ 1,959 | 🐛 208 | 🌐 HTML | 📅 2024-08-21 before contributing to Hacktoberfest.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shahednasser)
 
@@ -10,7 +10,7 @@
 
 ## Contribution
 
-To add a resource or contribute, please check out our contribution guide [here](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md) ⭐ 1,960 | 🐛 208 | 🌐 HTML | 📅 2024-08-21.
+To add a resource or contribute, please check out our contribution guide [here](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md) ⭐ 1,959 | 🐛 208 | 🌐 HTML | 📅 2024-08-21.
 
 ## Emojis Filter and Cheatsheet
 
@@ -127,8 +127,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Android
 
-* :bulb: [Awesome Android](https://github.com/JStumpp/awesome-android) ⭐ 12,307 | 🐛 95 | 📅 2025-10-27
-* :bulb: [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) ⭐ 4,747 | 🐛 2 | 🌐 Java | 📅 2025-06-08
+* :bulb: [Awesome Android](https://github.com/JStumpp/awesome-android) ⭐ 12,309 | 🐛 96 | 📅 2025-10-27
+* :bulb: [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) ⭐ 4,748 | 🐛 2 | 🌐 Java | 📅 2025-06-08
 * :books: [Vogella Tutorials](https://www.vogella.com/tutorials/android.html)
 * :books: [Android Basics with Kotlin Course](https://developer.android.com/courses/android-basics-kotlin/course)
 * :file\_folder: [Build your first app](https://developer.android.com/training/basics/firstapp)
@@ -266,8 +266,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Computer Science
 
-* :bulb: [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) ⭐ 208,629 | 🐛 27 | 🌐 HTML | 📅 2026-07-14
-* :bulb: [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,643 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
+* :bulb: [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) ⭐ 208,657 | 🐛 27 | 🌐 HTML | 📅 2026-07-14
+* :bulb: [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,645 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
 * :books: [CS50](https://cs50.harvard.edu/)
 * :books: [Khan Academy - Computer Science](https://www.khanacademy.org/computing/computer-science)
 * :books: [Teach Yourself Computer Science](https://teachyourselfcs.com/)
@@ -280,7 +280,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Theoretical Computer Science
 
-* :books: [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,797 | 🐛 84 | 🌐 Python | 📅 2026-09-01
+* :books: [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,880 | 🐛 84 | 🌐 Python | 📅 2026-09-01
 * :file\_folder: [Agda usage](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html)
 * :file\_folder: [Programming Language Foundation in Agda](https://plfa.github.io/)
 * :video\_camera: [Type Theory playlist](https://www.youtube.com/playlist?list=PLoPjtLnIwJuJcZpSHIsVliXFsTH99-2W5)
@@ -291,7 +291,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## CSS
 
-* :wrench: [CSS Selector Generator](https://github.com/antonmedv/finder) ⭐ 1,486 | 🐛 19 | 🌐 HTML | 📅 2025-11-20
+* :wrench: [CSS Selector Generator](https://github.com/antonmedv/finder) ⭐ 1,487 | 🐛 19 | 🌐 HTML | 📅 2025-11-20
 * :books: [CSS Tutorial on W3Schools](https://www.w3schools.com/css/)
 * :bulb: [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 * :green\_book: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -429,7 +429,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## DevOps
 
-* :file\_folder: [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) ⭐ 29,693 | 🐛 10 | 🌐 Shell | 📅 2026-06-24
+* :file\_folder: [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) ⭐ 29,697 | 🐛 10 | 🌐 Shell | 📅 2026-06-24
 * :file\_folder: [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 * :green\_book: [Agile vs Devops](https://enterprisersproject.com/article/2019/1/agile-vs-devops-whats-difference)
 * :books: [Become a DevOps Engineer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
@@ -488,7 +488,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Ethical Hacking
 
-* :bulb: [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 119,539 | 🐛 40 | 📅 2026-07-26
+* :bulb: [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 119,605 | 🐛 40 | 📅 2026-07-26
 * :bulb: [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) ⭐ 6,114 | 🐛 7 | 🌐 Python | 📅 2023-02-12
 * :video\_camera: [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 * :wrench: [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
@@ -645,7 +645,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## GIT
 
-* :books: [Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) ⭐ 1,088 | 🐛 2 | 🌐 HTML | 📅 2025-12-09
+* :books: [Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) ⭐ 1,089 | 🐛 2 | 🌐 HTML | 📅 2025-12-09
 * :file\_folder: [Pro Git Book](https://git-scm.com/book/en/v2/)
 * :books: [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/)
 * :bulb: [Learn Git Branching](https://learngitbranching.js.org/): A beautiful visual guide to learn simple and advanced Git.
@@ -749,7 +749,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Ionic
 
-* :bulb: [Awesome Ionic - A curated list of awesome Ionic libraries, resources, and solutions from Ionic 1 to the latest version of the framework](https://github.com/Alexintosh/Awesome-Ionic) ⭐ 1,462 | 🐛 14 | 📅 2021-04-18
+* :bulb: [Awesome Ionic - A curated list of awesome Ionic libraries, resources, and solutions from Ionic 1 to the latest version of the framework](https://github.com/Alexintosh/Awesome-Ionic) ⭐ 1,461 | 🐛 14 | 📅 2021-04-18
 * :video\_camera: [Angular to React for Ionic Developers](https://www.youtube.com/watch?v=r0OqtdjCUK8)
 * :green\_book: [Add a Firebase Database to your Ionic App](https://ionicthemes.com/tutorials/add-a-firebase-database-to-your-ionic-app)
 * :green\_book: [Building an Ionic JWT Refresh Token Flow](https://devdactic.com/ionic-jwt-refresh-token/)
@@ -783,9 +783,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Javascript
 
-* :books: [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,780 | 🐛 2 | 📅 2026-02-15
-* :books: [TheJSWay Book](https://github.com/thejsway/thejsway) ⭐ 7,880 | 🐛 4 | 🌐 CSS | 📅 2025-01-30
-* :wrench: [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org) ⭐ 5,846 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-31
+* :books: [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,791 | 🐛 2 | 📅 2026-02-15
+* :books: [TheJSWay Book](https://github.com/thejsway/thejsway) ⭐ 7,879 | 🐛 4 | 🌐 CSS | 📅 2025-01-30
+* :wrench: [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org) ⭐ 5,848 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-31
 * :video\_camera: [Learn How JavaScripts works Behind the Scene by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 * :books: [CoderslangJS](https://js.coderslang.com/)
 * :bulb: [Beginner JavaScript Notes + Reference by Wes Bos](https://wesbos.com/javascript)
@@ -918,8 +918,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Magento
 
-* :wrench: [Docker Configuration for Magento2](https://github.com/markshust/docker-magento) ⭐ 2,863 | 🐛 2 | 🌐 Shell | 📅 2026-08-20
-* :wrench: [Fast Virtual Machine for Magento2](https://github.com/zepgram/magento2-fast-vm/) ⭐ 105 | 🐛 2 | 🌐 Shell | 📅 2023-03-27
+* :wrench: [Docker Configuration for Magento2](https://github.com/markshust/docker-magento) ⭐ 2,864 | 🐛 2 | 🌐 Shell | 📅 2026-08-20
+* :wrench: [Fast Virtual Machine for Magento2](https://github.com/zepgram/magento2-fast-vm/) ⭐ 104 | 🐛 2 | 🌐 Shell | 📅 2023-03-27
 * :books: [Become Magento 2 Developer with Mage Mastery (online courses and workshops)](https://magemastery.net/)
 
 ***
@@ -928,7 +928,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Markdown
 
-* :bulb: [List of Badges, in Markdown](https://github.com/Naereen/badges) ⭐ 4,644 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
+* :bulb: [List of Badges, in Markdown](https://github.com/Naereen/badges) ⭐ 4,643 | 🐛 1 | 🌐 Makefile | 📅 2026-05-07
 * :file\_folder: [Documentation from the Creator of Markdown](https://daringfireball.net/projects/markdown/)
 * :bulb: [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 * :wrench: [Dillinger - Markdown Editor](https://dillinger.io)
@@ -999,7 +999,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## PostgreSQL
 
-* :bulb: [SQL Cheat Sheet - ABZ-Aaron](https://github.com/ABZ-Aaron/CheatSheets/blob/main/SQL-V2-Light.pdf) ⭐ 1,711 | 🐛 2 | 📅 2022-07-25
+* :bulb: [SQL Cheat Sheet - ABZ-Aaron](https://github.com/ABZ-Aaron/CheatSheets/blob/main/SQL-V2-Light.pdf) ⭐ 1,710 | 🐛 2 | 📅 2022-07-25
 * :books: [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
 * :video\_camera: [Learn PostgreSQL Tutorial - freeCodeCamp](https://youtu.be/qw--VYLpxG4)
 * :video\_camera: [SQL Tutorial for Beginners - Ben Awad](https://youtu.be/tp_5c6jaNQE)
@@ -1021,7 +1021,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Python
 
-* :bulb: [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) ⭐ 224,191 | 🐛 1,063 | 🌐 Python | 📅 2026-09-02
+* :bulb: [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) ⭐ 224,223 | 🐛 1,022 | 🌐 Python | 📅 2026-09-03
 * :books: [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python) ⭐ 804 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-26
 * :books: [CS50P - CS50's intro to Programing With Python](https://cs50.harvard.edu/python/2022/)
 * :books: [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/2e/chapter0/)
@@ -1114,7 +1114,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Rust
 
-* :bulb: [Rustlings - small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,028 | 🐛 33 | 🌐 Rust | 📅 2026-08-30
+* :bulb: [Rustlings - small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,034 | 🐛 33 | 🌐 Rust | 📅 2026-08-30
 * :file\_folder: [The Rust Programming Language book](https://doc.rust-lang.org/book/)
 * :file\_folder: [Rust By Example](https://doc.rust-lang.org/rust-by-example/): A collection of runnable examples that illustrate various Rust concepts and standard libraries.
 * :video\_camera: [The Rust Lang Book video series by Let's Get Rusty](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
@@ -1223,7 +1223,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Typescript
 
-* :bulb: [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript) ⭐ 9,809 | 🐛 3 | 🌐 TypeScript | 📅 2025-07-01
+* :bulb: [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript) ⭐ 9,810 | 🐛 3 | 🌐 TypeScript | 📅 2025-07-01
 * :file\_folder: [TypeScript Documentation: Handbook](https://www.typescriptlang.org/docs/)
 * :books: [Scrimba - Introduction to TypeScript](https://scrimba.com/learn/intrototypescript)
 * :video\_camera: [Typescript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
@@ -1377,4 +1377,4 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
