@@ -48,7 +48,7 @@
             "open_issues": 2,
             "owner": "nisrulz",
             "repo": "android-tips-tricks",
-            "stars": 4748,
+            "stars": 4747,
             "topics": [
               "adb",
               "android",
@@ -90,7 +90,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209451,
+            "stars": 209479,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -116,7 +116,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33687,
+            "stars": 33688,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
@@ -140,10 +140,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-24T12:26:41Z",
-            "open_issues": 81,
+            "open_issues": 84,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 397626,
+            "stars": 397786,
             "topics": [
               "books",
               "education",
@@ -230,7 +230,7 @@
             "open_issues": 10,
             "owner": "MichaelCade",
             "repo": "90DaysOfDevOps",
-            "stars": 29774,
+            "stars": 29777,
             "topics": [
               "ansible",
               "backup",
@@ -266,7 +266,7 @@
             "open_issues": 43,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 121182,
+            "stars": 121244,
             "topics": [
               "android",
               "awesome",
@@ -297,7 +297,7 @@
             "open_issues": 8,
             "owner": "TCM-Course-Resources",
             "repo": "Practical-Ethical-Hacking-Resources",
-            "stars": 6122,
+            "stars": 6121,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "bobbyiliev",
             "repo": "introduction-to-git-and-github-ebook",
-            "stars": 1100,
+            "stars": 1101,
             "topics": [
               "devops",
               "ebook",
@@ -390,7 +390,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184956,
+            "stars": 184968,
             "topics": [
               "async",
               "book",
@@ -450,7 +450,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-09-25T13:11:06Z",
-            "open_issues": 7,
+            "open_issues": 14,
             "owner": "js-org",
             "repo": "js.org",
             "stars": 5859,
@@ -563,7 +563,7 @@
             "open_issues": 1,
             "owner": "Naereen",
             "repo": "badges",
-            "stars": 4645,
+            "stars": 4644,
             "topics": [
               "awesome",
               "badges",
@@ -625,11 +625,11 @@
             "id": 63476337,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T11:55:05Z",
+            "last_commit": "2026-09-26T11:54:38Z",
             "open_issues": 102,
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 224965,
+            "stars": 225005,
             "topics": [
               "algorithm",
               "algorithm-competitions",
@@ -692,7 +692,7 @@
             "open_issues": 38,
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 64215,
+            "stars": 64224,
             "topics": [
               "beginner-friendly",
               "exercises",
@@ -759,7 +759,7 @@
             "open_issues": 3,
             "owner": "labs42io",
             "repo": "clean-code-typescript",
-            "stars": 9813,
+            "stars": 9814,
             "topics": [
               "best-practices",
               "clean-architecture",
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:28:08.569Z",
+    "last_updated": "2026-09-26T13:39:08.269Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: List of helpful resources added by the community for the community!",
