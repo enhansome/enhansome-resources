@@ -127,7 +127,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Android
 
-* :bulb: [Awesome Android](https://github.com/JStumpp/awesome-android) ⭐ 12,368 | 🐛 100 | 📅 2025-10-27
+* :bulb: [Awesome Android](https://github.com/JStumpp/awesome-android) ⭐ 12,370 | 🐛 101 | 📅 2025-10-27
 * :bulb: [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) ⭐ 4,745 | 🐛 2 | 🌐 Java | 📅 2025-06-08
 * :books: [Vogella Tutorials](https://www.vogella.com/tutorials/android.html)
 * :books: [Android Basics with Kotlin Course](https://developer.android.com/courses/android-basics-kotlin/course)
@@ -266,8 +266,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Computer Science
 
-* :bulb: [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) ⭐ 209,702 | 🐛 28 | 🌐 HTML | 📅 2026-07-14
-* :bulb: [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,696 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* :bulb: [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) ⭐ 209,707 | 🐛 28 | 🌐 HTML | 📅 2026-07-14
+* :bulb: [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,695 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
 * :books: [CS50](https://cs50.harvard.edu/)
 * :books: [Khan Academy - Computer Science](https://www.khanacademy.org/computing/computer-science)
 * :books: [Teach Yourself Computer Science](https://teachyourselfcs.com/)
@@ -280,7 +280,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Theoretical Computer Science
 
-* :books: [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 398,352 | 🐛 85 | 🌐 Python | 📅 2026-10-02
+* :books: [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 398,386 | 🐛 86 | 🌐 Python | 📅 2026-10-02
 * :file\_folder: [Agda usage](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html)
 * :file\_folder: [Programming Language Foundation in Agda](https://plfa.github.io/)
 * :video\_camera: [Type Theory playlist](https://www.youtube.com/playlist?list=PLoPjtLnIwJuJcZpSHIsVliXFsTH99-2W5)
@@ -429,7 +429,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## DevOps
 
-* :file\_folder: [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) ⭐ 29,790 | 🐛 10 | 🌐 Shell | 📅 2026-06-24
+* :file\_folder: [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) ⭐ 29,793 | 🐛 10 | 🌐 Shell | 📅 2026-06-24
 * :file\_folder: [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 * :green\_book: [Agile vs Devops](https://enterprisersproject.com/article/2019/1/agile-vs-devops-whats-difference)
 * :books: [Become a DevOps Engineer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
@@ -488,8 +488,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Ethical Hacking
 
-* :bulb: [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 121,733 | 🐛 43 | 📅 2026-07-26
-* :bulb: [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) ⭐ 6,121 | 🐛 8 | 🌐 Python | 📅 2023-02-12
+* :bulb: [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 121,758 | 🐛 43 | 📅 2026-07-26
+* :bulb: [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) ⭐ 6,122 | 🐛 8 | 🌐 Python | 📅 2023-02-12
 * :video\_camera: [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 * :wrench: [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
 * :video\_camera: [Penetration Testing Bootcamp](https://hackersploit.org/penetration-testing-bootcamp/)
@@ -783,9 +783,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Javascript
 
-* :books: [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 185,009 | 🐛 2 | 📅 2026-02-15
+* :books: [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 185,013 | 🐛 2 | 📅 2026-02-15
 * :books: [TheJSWay Book](https://github.com/thejsway/thejsway) ⭐ 7,880 | 🐛 4 | 🌐 CSS | 📅 2025-01-30
-* :wrench: [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org) ⭐ 5,863 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-30
+* :wrench: [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org) ⭐ 5,864 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-03
 * :video\_camera: [Learn How JavaScripts works Behind the Scene by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 * :books: [CoderslangJS](https://js.coderslang.com/)
 * :bulb: [Beginner JavaScript Notes + Reference by Wes Bos](https://wesbos.com/javascript)
@@ -1021,7 +1021,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Python
 
-* :bulb: [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) ⭐ 225,217 | 🐛 7 | 🌐 Python | 📅 2026-10-01
+* :bulb: [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) ⭐ 225,223 | 🐛 5 | 🌐 Python | 📅 2026-10-03
 * :books: [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python) ⭐ 810 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-26
 * :books: [CS50P - CS50's intro to Programing With Python](https://cs50.harvard.edu/python/2022/)
 * :books: [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/2e/chapter0/)
@@ -1114,7 +1114,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Rust
 
-* :bulb: [Rustlings - small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,265 | 🐛 37 | 🌐 Rust | 📅 2026-09-29
+* :bulb: [Rustlings - small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,267 | 🐛 37 | 🌐 Rust | 📅 2026-09-29
 * :file\_folder: [The Rust Programming Language book](https://doc.rust-lang.org/book/)
 * :file\_folder: [Rust By Example](https://doc.rust-lang.org/rust-by-example/): A collection of runnable examples that illustrate various Rust concepts and standard libraries.
 * :video\_camera: [The Rust Lang Book video series by Let's Get Rusty](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
