@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": ":bulb: Awesome Android",
-          "description": null,
+          "description": "JStumpp/awesome-android",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 100,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12370,
+            "stars": 12368,
             "topics": [
               "android-development",
               "android-library",
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": ":bulb: Android Tips & Tricks",
-          "description": null,
+          "description": "nisrulz/android-tips-tricks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
             "open_issues": 2,
             "owner": "nisrulz",
             "repo": "android-tips-tricks",
-            "stars": 4746,
+            "stars": 4745,
             "topics": [
               "adb",
               "android",
@@ -77,7 +77,7 @@
         {
           "node_type": "item",
           "title": ":bulb: Open Source Society University - Path to a free self-taught education in Computer Science!",
-          "description": null,
+          "description": "ossu/computer-science",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209685,
+            "stars": 209702,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -103,7 +103,7 @@
         {
           "node_type": "item",
           "title": ":bulb: Awesome Awesomeness",
-          "description": null,
+          "description": "bayandin/awesome-awesomeness",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -130,7 +130,7 @@
         {
           "node_type": "item",
           "title": ":books: Freely available programming books",
-          "description": null,
+          "description": "EbookFoundation/free-programming-books",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -139,11 +139,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-24T12:26:41Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-02T19:35:16Z",
+            "open_issues": 85,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398311,
+            "stars": 398352,
             "topics": [
               "books",
               "education",
@@ -163,7 +163,7 @@
         {
           "node_type": "item",
           "title": ":wrench: CSS Selector Generator",
-          "description": null,
+          "description": "antonmedv/finder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -190,7 +190,7 @@
         {
           "node_type": "item",
           "title": ":bulb: Machine Learning Algorithms from Scratch",
-          "description": null,
+          "description": "patrickloeber/MLfromscratch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -217,7 +217,7 @@
         {
           "node_type": "item",
           "title": ":file_folder: 90DaysOfDevOps",
-          "description": null,
+          "description": "MichaelCade/90DaysOfDevOps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,7 +230,7 @@
             "open_issues": 10,
             "owner": "MichaelCade",
             "repo": "90DaysOfDevOps",
-            "stars": 29791,
+            "stars": 29790,
             "topics": [
               "ansible",
               "backup",
@@ -253,7 +253,7 @@
         {
           "node_type": "item",
           "title": ":bulb: Collection of hackers, pentesters & security researchers",
-          "description": null,
+          "description": "Hack-with-Github/Awesome-Hacking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +266,7 @@
             "open_issues": 43,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 121698,
+            "stars": 121733,
             "topics": [
               "android",
               "awesome",
@@ -284,7 +284,7 @@
         {
           "node_type": "item",
           "title": ":bulb: Practical-Ethical-Hacking-Resources",
-          "description": null,
+          "description": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,7 +311,7 @@
         {
           "node_type": "item",
           "title": ":books: Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)",
-          "description": null,
+          "description": "bobbyiliev/introduction-to-git-and-github-ebook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -345,7 +345,7 @@
         {
           "node_type": "item",
           "title": ":bulb: Awesome Ionic - A curated list of awesome Ionic libraries, resources, and solutions from Ionic 1 to the latest version of the framework",
-          "description": null,
+          "description": "Alexintosh/Awesome-Ionic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -377,7 +377,7 @@
         {
           "node_type": "item",
           "title": ":books: You Don't Know JS Yet (book series)",
-          "description": null,
+          "description": "getify/You-Dont-Know-JS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -412,7 +412,7 @@
         {
           "node_type": "item",
           "title": ":books: TheJSWay Book",
-          "description": null,
+          "description": "thejsway/thejsway",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,7 +440,7 @@
         {
           "node_type": "item",
           "title": ":wrench: Free js.org Subdomain For Github Pages",
-          "description": null,
+          "description": "js-org/js.org",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -450,10 +450,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-09-30T13:56:39Z",
-            "open_issues": 12,
+            "open_issues": 17,
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5862,
+            "stars": 5863,
             "topics": [
               "community",
               "custom-domains",
@@ -476,7 +476,7 @@
         {
           "node_type": "item",
           "title": ":wrench: Docker Configuration for Magento2",
-          "description": null,
+          "description": "markshust/docker-magento",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -505,7 +505,7 @@
         {
           "node_type": "item",
           "title": ":wrench: Fast Virtual Machine for Magento2",
-          "description": null,
+          "description": "zepgram/magento2-fast-vm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -550,7 +550,7 @@
         {
           "node_type": "item",
           "title": ":bulb: List of Badges, in Markdown",
-          "description": null,
+          "description": "Naereen/badges",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -563,7 +563,7 @@
             "open_issues": 1,
             "owner": "Naereen",
             "repo": "badges",
-            "stars": 4647,
+            "stars": 4648,
             "topics": [
               "awesome",
               "badges",
@@ -589,7 +589,7 @@
         {
           "node_type": "item",
           "title": ":bulb: SQL Cheat Sheet - ABZ-Aaron",
-          "description": null,
+          "description": "ABZ-Aaron/cheat-sheets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -616,7 +616,7 @@
         {
           "node_type": "item",
           "title": ":bulb: TheAlgorithms/Python: All Algorithms implemented in Python",
-          "description": null,
+          "description": "TheAlgorithms/Python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -626,10 +626,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T16:19:55Z",
-            "open_issues": 4,
+            "open_issues": 7,
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 225202,
+            "stars": 225217,
             "topics": [
               "algorithm",
               "algorithm-competitions",
@@ -652,7 +652,7 @@
         {
           "node_type": "item",
           "title": ":books: Python Intermediate Tutorial",
-          "description": null,
+          "description": "patrickloeber/python-engineer-notebooks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -679,7 +679,7 @@
         {
           "node_type": "item",
           "title": ":bulb: Rustlings - small exercises to get you used to reading and writing Rust code",
-          "description": null,
+          "description": "rust-lang/rustlings",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -692,7 +692,7 @@
             "open_issues": 37,
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 64261,
+            "stars": 64265,
             "topics": [
               "beginner-friendly",
               "exercises",
@@ -711,7 +711,7 @@
         {
           "node_type": "item",
           "title": ":bulb: Terraform Study Guide",
-          "description": null,
+          "description": "ari-hacks/terraform-study-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -746,7 +746,7 @@
         {
           "node_type": "item",
           "title": ":bulb: Clean Code concepts adapted for TypeScript",
-          "description": null,
+          "description": "labs42io/clean-code-typescript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -783,7 +783,7 @@
             {
               "node_type": "item",
               "title": ":green_book: How to run graphics.h in VS Code",
-              "description": null,
+              "description": "ullaskunder3/Solution-to-graphics.h",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:28:32.590Z",
+    "last_updated": "2026-10-03T05:03:48.294Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: List of helpful resources added by the community for the community!",
@@ -830,7 +830,7 @@
       "open_issues": 210,
       "owner": "shahednasser",
       "repo": "awesome-resources",
-      "stars": 1963,
+      "stars": 1965,
       "topics": [
         "awesome",
         "awesome-list",
