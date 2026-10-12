@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12399,
+            "stars": 12401,
             "topics": [
               "android-development",
               "android-library",
@@ -90,7 +90,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209879,
+            "stars": 209913,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -116,7 +116,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33717,
+            "stars": 33721,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
@@ -139,11 +139,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-09T22:57:13Z",
-            "open_issues": 83,
+            "last_commit": "2026-10-12T16:52:07Z",
+            "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398752,
+            "stars": 398850,
             "topics": [
               "books",
               "education",
@@ -203,7 +203,7 @@
             "open_issues": 10,
             "owner": "patrickloeber",
             "repo": "MLfromscratch",
-            "stars": 1656,
+            "stars": 1654,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
@@ -230,7 +230,7 @@
             "open_issues": 10,
             "owner": "MichaelCade",
             "repo": "90DaysOfDevOps",
-            "stars": 29816,
+            "stars": 29821,
             "topics": [
               "ansible",
               "backup",
@@ -266,7 +266,7 @@
             "open_issues": 41,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 122176,
+            "stars": 122297,
             "topics": [
               "android",
               "awesome",
@@ -297,7 +297,7 @@
             "open_issues": 8,
             "owner": "TCM-Course-Resources",
             "repo": "Practical-Ethical-Hacking-Resources",
-            "stars": 6123,
+            "stars": 6125,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "bobbyiliev",
             "repo": "introduction-to-git-and-github-ebook",
-            "stars": 1112,
+            "stars": 1114,
             "topics": [
               "devops",
               "ebook",
@@ -390,7 +390,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184811,
+            "stars": 184823,
             "topics": [
               "async",
               "book",
@@ -449,11 +449,11 @@
             "id": 33578240,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-11T14:52:01Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-12T14:49:03Z",
+            "open_issues": 7,
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5873,
+            "stars": 5874,
             "topics": [
               "community",
               "custom-domains",
@@ -485,8 +485,8 @@
             "id": 44771822,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-24T19:49:18Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-12T01:00:02Z",
+            "open_issues": 0,
             "owner": "markshust",
             "repo": "docker-magento",
             "stars": 2866,
@@ -563,7 +563,7 @@
             "open_issues": 1,
             "owner": "Naereen",
             "repo": "badges",
-            "stars": 4652,
+            "stars": 4651,
             "topics": [
               "awesome",
               "badges",
@@ -625,11 +625,11 @@
             "id": 63476337,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T17:22:34Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-12T06:46:23Z",
+            "open_issues": 17,
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 225172,
+            "stars": 225201,
             "topics": [
               "algorithm",
               "algorithm-competitions",
@@ -692,7 +692,7 @@
             "open_issues": 37,
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 64315,
+            "stars": 64326,
             "topics": [
               "beginner-friendly",
               "exercises",
@@ -759,7 +759,7 @@
             "open_issues": 3,
             "owner": "labs42io",
             "repo": "clean-code-typescript",
-            "stars": 9818,
+            "stars": 9819,
             "topics": [
               "best-practices",
               "clean-architecture",
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T15:23:09.598Z",
+    "last_updated": "2026-10-12T18:42:09.637Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: List of helpful resources added by the community for the community!",
@@ -830,7 +830,7 @@
       "open_issues": 209,
       "owner": "shahednasser",
       "repo": "awesome-resources",
-      "stars": 1968,
+      "stars": 1969,
       "topics": [
         "awesome",
         "awesome-list",
