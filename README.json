@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12403,
+            "stars": 12402,
             "topics": [
               "android-development",
               "android-library",
@@ -90,7 +90,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209984,
+            "stars": 210015,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -116,7 +116,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33723,
+            "stars": 33726,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
@@ -139,11 +139,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-12T16:52:07Z",
-            "open_issues": 91,
+            "last_commit": "2026-10-14T17:42:57Z",
+            "open_issues": 89,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 399025,
+            "stars": 399098,
             "topics": [
               "books",
               "education",
@@ -176,7 +176,7 @@
             "open_issues": 19,
             "owner": "antonmedv",
             "repo": "finder",
-            "stars": 1491,
+            "stars": 1490,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
@@ -230,7 +230,7 @@
             "open_issues": 10,
             "owner": "MichaelCade",
             "repo": "90DaysOfDevOps",
-            "stars": 29831,
+            "stars": 29834,
             "topics": [
               "ansible",
               "backup",
@@ -266,7 +266,7 @@
             "open_issues": 41,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 122550,
+            "stars": 122662,
             "topics": [
               "android",
               "awesome",
@@ -449,11 +449,11 @@
             "id": 33578240,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-13T15:08:03Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-15T13:11:03Z",
+            "open_issues": 3,
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5875,
+            "stars": 5876,
             "topics": [
               "community",
               "custom-domains",
@@ -489,7 +489,7 @@
             "open_issues": 0,
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2867,
+            "stars": 2866,
             "topics": [
               "docker",
               "docker-compose",
@@ -626,10 +626,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-14T03:12:09Z",
-            "open_issues": 22,
+            "open_issues": 25,
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 225242,
+            "stars": 225281,
             "topics": [
               "algorithm",
               "algorithm-competitions",
@@ -692,7 +692,7 @@
             "open_issues": 38,
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 64346,
+            "stars": 64354,
             "topics": [
               "beginner-friendly",
               "exercises",
@@ -759,7 +759,7 @@
             "open_issues": 3,
             "owner": "labs42io",
             "repo": "clean-code-typescript",
-            "stars": 9821,
+            "stars": 9824,
             "topics": [
               "best-practices",
               "clean-architecture",
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:22:50.549Z",
+    "last_updated": "2026-10-15T14:00:28.519Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: List of helpful resources added by the community for the community!",
