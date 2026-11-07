@@ -19,7 +19,7 @@
             "open_issues": 110,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12442,
+            "stars": 12443,
             "topics": [
               "android-development",
               "android-library",
@@ -86,11 +86,11 @@
             "id": 19415064,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-07-14T05:38:25Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-07T09:14:50Z",
+            "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 210826,
+            "stars": 210928,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -143,7 +143,7 @@
             "open_issues": 103,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 401080,
+            "stars": 401198,
             "topics": [
               "books",
               "education",
@@ -230,7 +230,7 @@
             "open_issues": 10,
             "owner": "MichaelCade",
             "repo": "90DaysOfDevOps",
-            "stars": 30809,
+            "stars": 30826,
             "topics": [
               "ansible",
               "backup",
@@ -263,10 +263,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-27T01:45:58Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 124787,
+            "stars": 124877,
             "topics": [
               "android",
               "awesome",
@@ -297,7 +297,7 @@
             "open_issues": 8,
             "owner": "TCM-Course-Resources",
             "repo": "Practical-Ethical-Hacking-Resources",
-            "stars": 6138,
+            "stars": 6139,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "bobbyiliev",
             "repo": "introduction-to-git-and-github-ebook",
-            "stars": 1117,
+            "stars": 1118,
             "topics": [
               "devops",
               "ebook",
@@ -390,7 +390,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184841,
+            "stars": 184846,
             "topics": [
               "async",
               "book",
@@ -450,7 +450,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-11-06T15:43:54Z",
-            "open_issues": 5,
+            "open_issues": 12,
             "owner": "js-org",
             "repo": "js.org",
             "stars": 5902,
@@ -489,7 +489,7 @@
             "open_issues": 0,
             "owner": "markshust",
             "repo": "docker-magento",
-            "stars": 2868,
+            "stars": 2867,
             "topics": [
               "docker",
               "docker-compose",
@@ -626,10 +626,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-02T19:35:18Z",
-            "open_issues": 88,
+            "open_issues": 90,
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 225921,
+            "stars": 225938,
             "topics": [
               "algorithm",
               "algorithm-competitions",
@@ -692,7 +692,7 @@
             "open_issues": 39,
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 64584,
+            "stars": 64594,
             "topics": [
               "beginner-friendly",
               "exercises",
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:38:01.584Z",
+    "last_updated": "2026-11-07T15:29:53.869Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: List of helpful resources added by the community for the community!",
