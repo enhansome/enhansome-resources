@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12443,
+            "stars": 12448,
             "topics": [
               "android-development",
               "android-library",
@@ -48,7 +48,7 @@
             "open_issues": 2,
             "owner": "nisrulz",
             "repo": "android-tips-tricks",
-            "stars": 4745,
+            "stars": 4746,
             "topics": [
               "adb",
               "android",
@@ -86,11 +86,11 @@
             "id": 19415064,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-07T09:14:50Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-09T06:27:27Z",
+            "open_issues": 29,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 210965,
+            "stars": 211036,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -116,7 +116,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33775,
+            "stars": 33776,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:39.285Z"
@@ -143,7 +143,7 @@
             "open_issues": 95,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 401282,
+            "stars": 401380,
             "topics": [
               "books",
               "education",
@@ -227,10 +227,10 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-06-24T15:29:07Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "MichaelCade",
             "repo": "90DaysOfDevOps",
-            "stars": 30835,
+            "stars": 30865,
             "topics": [
               "ansible",
               "backup",
@@ -266,7 +266,7 @@
             "open_issues": 45,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 124968,
+            "stars": 125088,
             "topics": [
               "android",
               "awesome",
@@ -390,7 +390,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184841,
+            "stars": 184844,
             "topics": [
               "async",
               "book",
@@ -450,10 +450,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-11-08T15:33:32Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5902,
+            "stars": 5904,
             "topics": [
               "community",
               "custom-domains",
@@ -485,8 +485,8 @@
             "id": 44771822,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-28T19:56:45Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-09T19:33:03Z",
+            "open_issues": 1,
             "owner": "markshust",
             "repo": "docker-magento",
             "stars": 2867,
@@ -629,7 +629,7 @@
             "open_issues": 90,
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 225961,
+            "stars": 225982,
             "topics": [
               "algorithm",
               "algorithm-competitions",
@@ -692,7 +692,7 @@
             "open_issues": 39,
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 64604,
+            "stars": 64615,
             "topics": [
               "beginner-friendly",
               "exercises",
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T15:50:29.706Z",
+    "last_updated": "2026-11-09T19:34:22.693Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: List of helpful resources added by the community for the community!",
