@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12478,
+            "stars": 12480,
             "topics": [
               "android-development",
               "android-library",
@@ -90,7 +90,7 @@
             "open_issues": 31,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 211432,
+            "stars": 211460,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -140,10 +140,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-21T23:51:56Z",
-            "open_issues": 114,
+            "open_issues": 116,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 402077,
+            "stars": 402135,
             "topics": [
               "books",
               "education",
@@ -230,7 +230,7 @@
             "open_issues": 12,
             "owner": "MichaelCade",
             "repo": "90DaysOfDevOps",
-            "stars": 30929,
+            "stars": 30933,
             "topics": [
               "ansible",
               "backup",
@@ -266,7 +266,7 @@
             "open_issues": 48,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 126240,
+            "stars": 126365,
             "topics": [
               "android",
               "awesome",
@@ -390,7 +390,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184867,
+            "stars": 184860,
             "topics": [
               "async",
               "book",
@@ -425,7 +425,7 @@
             "open_issues": 4,
             "owner": "thejsway",
             "repo": "thejsway",
-            "stars": 7881,
+            "stars": 7880,
             "topics": [
               "book",
               "es2015",
@@ -449,8 +449,8 @@
             "id": 33578240,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-21T15:00:58Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-23T14:14:54Z",
+            "open_issues": 5,
             "owner": "js-org",
             "repo": "js.org",
             "stars": 5907,
@@ -486,7 +486,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-11-10T13:55:56Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "markshust",
             "repo": "docker-magento",
             "stars": 2867,
@@ -560,7 +560,7 @@
             "language": "Makefile",
             "license": "MIT",
             "last_commit": "2026-11-11T11:29:46Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "Naereen",
             "repo": "badges",
             "stars": 4662,
@@ -626,10 +626,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-13T04:28:36Z",
-            "open_issues": 130,
+            "open_issues": 134,
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 226390,
+            "stars": 226416,
             "topics": [
               "algorithm",
               "algorithm-competitions",
@@ -692,7 +692,7 @@
             "open_issues": 40,
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 64762,
+            "stars": 64770,
             "topics": [
               "beginner-friendly",
               "exercises",
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:56:26.490Z",
+    "last_updated": "2026-11-23T20:56:03.491Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: List of helpful resources added by the community for the community!",
